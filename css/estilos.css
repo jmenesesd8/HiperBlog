@@ -52,7 +52,6 @@ body
 }
 #footer
 {
-    background:#777;
-    color:white;
+    background: red;
     text-align:center;
 }
